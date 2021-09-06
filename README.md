@@ -25,6 +25,6 @@
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: [![Find Taufiq](https://img.shields.io/badge/Find_Taufiq-BFA612 "Find Taufiq")](https://mo-taufiq.github.io)
-- 😄 Pronouns: He
+- [![Find Taufiq](https://img.shields.io/static/v1?label=📫%20How%20to%20reach%20me%20:&message=Find%20Taufiq&color)](https://mo-taufiq.github.io)
+- ![Pronouns](https://img.shields.io/static/v1?label=😄%20Pronouns20:&message=He&color)
 <!-- - ⚡ Fun fact: ... -->
