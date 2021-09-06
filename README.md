@@ -2,6 +2,8 @@
 ![Go](https://img.shields.io/badge/GO-66d0dd "Go")
 ![Javascript](https://img.shields.io/badge/Javascript-efd81d "Javascript")
 ![PHP](https://img.shields.io/badge/PHP-7377ad "PHP")
+![HTML](https://img.shields.io/badge/HTML-dd4b25 "HTML")
+![CSS](https://img.shields.io/badge/CSS-254bdd "CSS")
 ![Node.js](https://img.shields.io/badge/Node.js-7fc728 "Node.js")
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2f5e8d "PostgreSQL")
 ![MySQL](https://img.shields.io/badge/MySQL-167d94 "MySQL")
