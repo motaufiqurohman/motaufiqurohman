@@ -5,6 +5,7 @@
 ![PHP](https://img.shields.io/badge/PHP-7377ad "PHP")
 ![HTML](https://img.shields.io/badge/HTML-dd4b25 "HTML")
 ![CSS](https://img.shields.io/badge/CSS-254bdd "CSS")
+![JQuery](https://img.shields.io/badge/JQuery-0865a6 "JQuery")
 ![Node.js](https://img.shields.io/badge/Node.js-7fc728 "Node.js")
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2f5e8d "PostgreSQL")
 ![MySQL](https://img.shields.io/badge/MySQL-167d94 "MySQL")
