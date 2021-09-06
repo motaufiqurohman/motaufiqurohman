@@ -26,5 +26,5 @@
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 - [![Find Taufiq](https://img.shields.io/static/v1?label=📫%20How%20to%20reach%20me%20:&message=Find%20Taufiq&color)](https://mo-taufiq.github.io)
-- ![Pronouns](https://img.shields.io/static/v1?label=😄%20Pronouns20:&message=He&color)
+- ![Pronouns](https://img.shields.io/static/v1?label=😄%20Pronouns%20:&message=He&color)
 <!-- - ⚡ Fun fact: ... -->
