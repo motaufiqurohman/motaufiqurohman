@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### Skills
+#### Tech
 ![Go](https://img.shields.io/badge/GO-66d0dd "Go")
 ![Javascript](https://img.shields.io/badge/Javascript-efd81d "Javascript")
 ![PHP](https://img.shields.io/badge/PHP-7377ad "PHP")
