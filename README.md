@@ -22,6 +22,6 @@
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- [![Find Taufiq](https://img.shields.io/static/v1?label=📫%20How%20to%20reach%20me%20:&message=Find%20Taufiq&color)](https://mo-taufiq.github.io)
+- [![Find Taufiq](https://img.shields.io/static/v1?label=📫%20How%20to%20reach%20me%20:&message=Find%20Taufiq&color)](https://motaufiqurohman.github.io/)
 - ![Pronouns](https://img.shields.io/static/v1?label=😄%20Pronouns%20:&message=He/Him&color)
 <!-- - ⚡ Fun fact: ... -->
