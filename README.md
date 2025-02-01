@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Moh Taufiqur Rohman</h1>
 <p align="center">Software Engineer👨‍💻 | Code For Fun🤩</p>
 
----
-
 <p align="center">
   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -26,9 +24,9 @@
 
 ---
 
-<table width="100%" border="0">
+<table width="100%">
 <tr>
-<td align="left" width="50%">
+<td align="center" width="50%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=motaufiqurohman&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </td>
 <td rowspan="2">
@@ -38,7 +36,7 @@
 </td>
 </tr>
 <tr>
-<td align="left" width="50%">
+<td align="center" width="50%">
 
 ### Connect with Me 🫰:
 
