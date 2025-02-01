@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/motaufiqurohman/motaufiqurohman/blob/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+  <img src="https://github.com/motaufiqurohman/motaufiqurohman/blob/output/github-snake-dark.svg" />
 </p>
 
 ---
