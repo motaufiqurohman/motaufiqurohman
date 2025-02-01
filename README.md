@@ -26,7 +26,7 @@
 
 ---
 
-<table width="100%">
+<table width="100%" border="0">
 <tr>
 <td align="left" width="50%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=motaufiqurohman&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
@@ -43,27 +43,15 @@
 ### Connect with Me 🫰:
 
 <p>
-  <a href="https://linkedin.com/in/motaufiqurohman">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://stackoverflow.com/users/motaufiqurohman">
-    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" />
-  </a>
-  <a href="https://x.com/motaufiqurohman">
-    <img src="https://img.shields.io/badge/X-black.svg?logo=X" />
-  </a>
-  <a href="https://youtube.com/c/motaufiqurohman">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" />
-  </a>
-  <a href="https://tiktok.com/@motaufiqurohman">
-    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/motaufiqurohman">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
-  </a>
-  <a href="https://facebook.com/motaufiqurohman">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" />
-  </a>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/motaufiqurohman)
+  [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/motaufiqurohman)
+  [![X](https://img.shields.io/badge/X-black.svg?logo=X)](https://x.com/https://x.com/motaufiqurohman)
+  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/motaufiqurohman)
+  [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@motaufiqurohman)
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/motaufiqurohman)
+  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/motaufiqurohman)
+  
 </p>
 
 </td>
